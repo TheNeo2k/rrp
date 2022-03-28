@@ -3,10 +3,9 @@
 Our site is currently offline while we're working on some hardware changes.
 While you wait you can join us on Teamspeak using the address;
 ts.rebornrp.com
-or try [Clicking Here!](ts3server://ts.rebornrp.com)
 
 Discord invite?
-[Reborn Discord](https://discord.gg/rebornrp)
+[Reborn Discord Click Me!](https://discord.gg/rebornrp)
 
 
 ### FiveM? Where Gone?
