@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Reborn Roleplay
 
-You can use the [editor on GitHub](https://github.com/TheNeo2k/rrp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Our site is currently offline while we're working on some hardware changes.
+While you wait you can join us on Teamspeak using the address;
+ts.rebornrp.com
+or try [ts3server://ts.rebornrp.com](Clicking Here!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Discord invite?
+[https://discord.gg/rebornrp](Reborn Discord)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FiveM? Where Gone?
 
 ```markdown
-Syntax highlighted code block
+Fivem was a massive undertaking, with months of development, attempted over multiple years, we finally released our first iteration of Fivem in November. It started well, peaking at 64 players in 12 minutes, then issues flared up and then over the weeks more and more bugs reared their ugly faces as a previous developer turned tail and fled. We closed down, rebuilt, changed the economy, tested, and started back up in February… once again off to an amazing start, week on week growing our player base, but then there were Hackers (Modders), Poor RP from established groups (IGB included), and it was basically an ArmA server in a FiveM world. Some bad decisions were made, and CFX was broken week after week preventing our peak times being populated and that was the final nail in the coffin.
+We’ve closed the Doors to FiveM once more.
+The future holds no guarantee’s, we are looking forwards to both GTA VI and ArmA IV, and who knows what else is out there. 
+Neo & Fuel
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheNeo2k/rrp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please note: The Arma server remains unaffected.```
