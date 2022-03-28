@@ -16,5 +16,6 @@ Fivem was a massive undertaking, with months of development, attempted over mult
 We’ve closed the Doors to FiveM once more.
 The future holds no guarantee’s, we are looking forwards to both GTA VI and ArmA IV, and who knows what else is out there. 
 Neo & Fuel
+```
 
-Please note: The Arma server remains unaffected.```
+Please note: The Arma server remains unaffected.
